@@ -12,7 +12,6 @@ body{
     border-bottom-color: #d66727;
     width: 80%;
     margin: 0 auto;
-   
 }
 
 .titleHeader {
@@ -67,7 +66,6 @@ body{
 }
 
 .containerContext{
-    
     width: 50%;
     margin: 0 auto;
 }
@@ -79,7 +77,6 @@ body{
 }
 
 .subtitleLink{
-    color: black;
     font-size: 32px;
     font-size: 36px;
 }
@@ -106,7 +103,6 @@ body{
 }
 
 .subtitleLink2{
-    color: black;
     font-size: 36px;
 }
 
